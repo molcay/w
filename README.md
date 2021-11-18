@@ -10,7 +10,7 @@ python3 -m venv venv
 
 * You can activate it the venv.
 ```shell
-./venv/bin/activate 
+. ./venv/bin/activate 
 # or in PowerShell
 .\venv\Scripts\activate
 ```
